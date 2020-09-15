@@ -1,0 +1,16 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "extração de dados externos utilizando a tecnica web scraping",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Santos",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1"
+  }
+}
