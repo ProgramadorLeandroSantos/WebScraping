@@ -1,6 +1,11 @@
 # WebScraping
 aplicando a técnica web-scraping com NodeJS
 
+#### Retornando as 5 ultimas Noticias do site alvo
+
+![retorno dos dados](https://github.com/ProgramadorLeandroSantos/WebScraping/blob/master/webscraping.gif)
+
+
 ## COMO UTILIZAR ?
 1 - Abra o projeto no Visual Studio Code<br/>
 2 - abra o terminal no diretório do projeto e execute `npm install`, para instalar as dependencias do projeto<br/>
